@@ -1,5 +1,3 @@
-Subject: Paylane support agent, proposed launch checks
-
 Hi,
 
 The support agent can answer general policy questions, look up a customer’s own transaction after verification, and request eligible full refunds. It checks that a transaction is settled, belongs to the verified customer, is no more than $75, is less than 30 days old, and has not already been refunded.
@@ -12,5 +10,4 @@ Before launch, could you clarify three things?
 2. How should cases be routed and prioritised, and what response-time expectations can we safely give?
 3. How would you like refunds recorded so your finance team can match them to transactions?
 
-Thanks,
-Mahashree
+Thanks
