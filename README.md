@@ -57,9 +57,9 @@ pip install -e ".[dev]"
 
 Configure the provider credentials. For Groq, set the following environment variables in PowerShell:
 
-$env:GROQ_API_KEY="your-key"
-$env:PAYLANE_PROVIDER="groq"
-$env:PAYLANE_MODEL="openai/gpt-oss-120b"
+- $env:GROQ_API_KEY="key"
+- $env:PAYLANE_PROVIDER="groq"
+- $env:PAYLANE_MODEL="openai/gpt-oss-120b"
 
 The project does not automatically load .env files. Set the required environment variables in your shell before running commands.
 
